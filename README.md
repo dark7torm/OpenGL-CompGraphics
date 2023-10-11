@@ -1,5 +1,3 @@
-<img src="./extra/repo.png">
-
 # Monorepo
 
 - [ ] <mark> Ren Taguchi </mark>
